@@ -1,4 +1,6 @@
 Este es mi archivo inicial
 
 
-#cambio realizado por parhner 2
+#cambio realizado por parthner 2
+
+#cambio x2 parthner 1
