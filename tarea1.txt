@@ -1,7 +1,7 @@
 Este archivo fue creado como tarea de sincronización
 
 
-
+# Línea añadida en local en la tarea.
 
 
 # Línea añadida desde GitHub en la tarea.
